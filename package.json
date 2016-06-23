@@ -1,0 +1,19 @@
+{
+  "name": "hubot-blackfriday",
+  "version": "1.0.0",
+  "description": "Last day of Kaizen team",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagasu/hubot-blackfriday.git"
+  },
+  "author": "Mateusz Kopij <sagasu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sagasu/hubot-blackfriday/issues"
+  },
+  "homepage": "https://github.com/sagasu/hubot-blackfriday#readme"
+}
